@@ -1,0 +1,10 @@
+.idea
+.tanstack
+node_modules
+build
+out
+src/app/main/prisma/client/
+src/app/main/prisma/dev.db
+.DS_Store
+.eslintcache
+*.log*

@@ -10,7 +10,7 @@ import eslintPluginImport from 'eslint-plugin-import';
 
 export default defineConfig(
   {
-    ignores: ['**/node_modules', '**/dist', '**/out'],
+    ignores: ['**/node_modules', '**/build', '**/out', '**/src/app/main/prisma'],
   },
   eslintTs.configs.recommended,
   eslintPluginReact.configs.flat.recommended,

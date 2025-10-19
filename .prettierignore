@@ -1,7 +1,8 @@
+node_modules
 out
-dist
+build
 pnpm-lock.yaml
 bun.lock
-LICENSE.md
 tsconfig.json
 tsconfig.*.json
+src/routeTree.gen.ts

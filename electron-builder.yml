@@ -6,7 +6,7 @@ files:
   - '!**/.ides/*'
   - '!src/*'
   - '!electron.vite.config.{js,ts,mjs,cjs}'
-  - '!{eslint.config.js,.eslintcache,.prettier.config.ts,.prettierignore,dev-app-update.yml,CHANGELOG.md,README.md}'
+  - '!{eslint.config.js,.eslintcache,.prettier.config.js,.prettierignore,dev-app-update.yml,CHANGELOG.md,README.md}'
   - '!{.env,.env.*,.nvmrc,.npmrc,bun.lock,pnpm-lock.yaml}'
   - '!{tsconfig.json,tsconfig.node.json,tsconfig.web.json}'
 asarUnpack:
